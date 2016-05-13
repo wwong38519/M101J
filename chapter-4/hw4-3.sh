@@ -1,0 +1,1 @@
+mongo < hw4-3.js

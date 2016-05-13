@@ -1,0 +1,12 @@
+mvn compile exec:java -Dexec.mainClass=com.mongodb.SparkHomework
+
+curl localhost:4567
+<html>
+<head>
+  <title>The Answer</title>
+</head>
+<body>
+  <h1>The answer is: 523258</h1>
+</body>
+</html>
+

@@ -1,0 +1,10 @@
+
+vagrant@vagrant:~$ curl http://localhost:4567
+<html>
+<head>
+    <title>The Answer</title>
+</head>
+<body>
+<h1>The answer is: 2805</h1>
+</body>
+</html>

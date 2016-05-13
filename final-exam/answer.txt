@@ -1,0 +1,33 @@
+#final-question-1
+3
+
+#final-question-2
+susan.mara@enron.com to jeff.dasovich@enron.com
+
+#final-question-3
+vOnRg05kwcqyEFSve96R
+
+#final-question-4
+
+#final-question-5
+a_1_b_1_c_-1
+c_1
+a_1_b_1
+a_1_c_1
+
+#final-question-6
+Remove all indexes from the collection, leaving only the index on _id in place
+Set w=0, j=0 on writes
+
+#final-question-7
+44787
+
+#final-question-8
+1
+
+#final-question-9
+patient_id
+
+#final-question-10
+The query scanned every document in the collection.
+The query avoided sorting the documents because it was able to use an index's ordering.
